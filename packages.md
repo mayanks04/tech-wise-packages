@@ -105,5 +105,3 @@ cargo build --release
 ```
 
 ---
-
-Would you like a **template GitHub Action or Jenkinsfile** to automate the build for each of these languages? I can provide them per language.
